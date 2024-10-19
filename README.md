@@ -4,7 +4,6 @@ This project is a Python implementation of the popular 2048 puzzle game using th
 Table of Contents
 Features
 How to Play
-Installation
 Usage
 Technologies
 License
@@ -22,20 +21,7 @@ Tiles with the same number will merge when they collide, forming a tile with the
 The goal is to create a tile with 2048, but you can continue playing after that.
 The game ends when there are no valid moves left.
 
-Installation:
-  Clone the repository:
 
-  bash:
-    git clone https://github.com/yourusername/2048-game-pygame.git
-    cd 2048-game-pygame
-Install dependencies: Ensure you have Python installed, then install the required packages:
-
-  bash:
-    pip install pygame
-    Run the game:
-
-bash
-python main.py
 Usage
 Launch the game and start moving tiles by pressing the arrow keys.
 Aim to combine tiles and create the 2048 tile.
